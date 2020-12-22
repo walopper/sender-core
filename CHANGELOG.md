@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.2](https://github.com/walopper/sender-core/compare/v1.3.1...v1.3.2) (2020-12-22)
+
+
+### Bug Fixes
+
+* **hola:** este es un fix de ejemplo ([befa8d2](https://github.com/walopper/sender-core/commit/befa8d2ac143099e0142b72e6863377e3653b701))
+
 ### [1.3.1](https://github.com/walopper/sender-core/compare/v1.3.0...v1.3.1) (2020-12-22)
 
 
