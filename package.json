@@ -15,7 +15,7 @@
   "dependencies": {
     "ioredis": "^4.9.5",
     "js-base64": "^2.5.1",
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "mysql2": "^1.6.5",
     "nodemon": "^1.19.1",
     "q": "^1.5.1",
