@@ -1,1 +1,2 @@
-# sender-core!
+# sender-core
+.
