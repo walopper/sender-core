@@ -9,7 +9,8 @@
     "start-dev": "NODE_ENV=development nodemon index",
     "start-ci": "NODE_ENV=ci nodemon index",
     "start-staging": "NODE_ENV=ci nodemon index",
-    "start": "exports NODE_ENV=production; nodemon index"
+    "start": "exports NODE_ENV=production; nodemon index",
+    "release": "standard-version"
   },
   "dependencies": {
     "ioredis": "^4.9.5",
@@ -18,6 +19,7 @@
     "mysql2": "^1.6.5",
     "nodemon": "^1.19.1",
     "q": "^1.5.1",
+    "standard-version": "^9.0.0",
     "winston": "^3.2.1"
   }
 }
